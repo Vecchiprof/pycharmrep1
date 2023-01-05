@@ -3,6 +3,5 @@
     <option name="LOGIN" value="italo.vecchi@polocodigoro.edu.it" />
     <option name="HOST" value="https://github.com" />
     <option name="AUTH_TYPE" value="BASIC" />
-    <option name="VALID_GIT_AUTH" value="false" />
   </component>
 </application>
